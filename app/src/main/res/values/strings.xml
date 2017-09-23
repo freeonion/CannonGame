@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CannonGame</string>
+    <string name="view_time_left">Time remaining: %1$.1f seconds</string>
+    <string name="title_dialog_win">YOU WIN!</string>
+    <string name="title_dialog_lose">YOU LOSE!</string>
+    <string name="content_dialog">Shots fired:%1$d\nTotal time:%2$.1f</string>
+    <string name="dialog_set">RESET GAME</string>
+</resources>
